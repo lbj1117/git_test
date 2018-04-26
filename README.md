@@ -1,6 +1,7 @@
 ﻿# git_test
-# by LBJ
+ by LBJ
 first experience of github
+
 just a test！
 
 abc
