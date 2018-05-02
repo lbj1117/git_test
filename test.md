@@ -12,4 +12,5 @@
 - just a test！
 
 ## 超链接测试
--test ：[百度](https://baidu.com)
+- test ：[百度](https://baidu.com)
+- test : [人民日报](http://paper.people.com.cn)
