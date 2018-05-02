@@ -3,6 +3,7 @@
 - [git_test](#git_test)
 - [超链接测试](#超链接测试)
 - [字体测试](#字体测试)
+- [图片测试](#图片测试)
 - more...
 
 ## git_test
@@ -21,3 +22,7 @@
 - 斜体： _斜体_   &ensp;  如果你看到的“斜体”两字确是斜体，则测试通过！
 - 斜体加粗体：***斜粗体*** 
 - 字体、字号、颜色：<font face="黑体" color=blue size=12>我是黑体蓝色12号字</font>
+
+## 图片测试
+- 点击下图，进入我的GitHub主页
+[![githublogo](https://github.com/lbj1117/git_test/blob/master/githublogo.jpg "github")](https://github.com/lbj1117)
